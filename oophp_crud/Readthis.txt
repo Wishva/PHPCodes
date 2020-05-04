@@ -1,0 +1,7 @@
+first make databse-----  oop_crud
+
+then import the sql file into the database 
+
+
+
+link to the video ----   https://www.youtube.com/watch?v=xTQ1PK84SyU
